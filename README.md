@@ -1,4 +1,4 @@
-# miniproject_eventmanagement
+# miniproject
 project for an event management program using circular queue
 Event Management System in C
 
